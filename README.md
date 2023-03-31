@@ -12,3 +12,12 @@
 <li>Brands which are consistently contributing the most for each of the category</li>
 <li>The analysis will be helpful for the customers to decide the product of choice based on brands, accessories and  price ranges</li>
 </ol>
+
+<p><b>Python libraries Used:</b></p>
+<ol>
+<li>Pandas</li>
+<li>Numpy</li>
+<li>Matplotlib</li>
+</ol>
+
+<a href='https://www.kaggle.com/datasets/mukuldeshantri/ecommerce-fashion-dataset'> Dataset from kaggle </a>
