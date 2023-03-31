@@ -1,15 +1,14 @@
-# FashionDataset---EDA
-
-### The dataset used is available in Kaggle 
-
-### The Dataset consists of various fashion Brands and different Categories of Accessories along with other features
+<h2><u>FashionDataset (Exploratory Data Analysis)</u></h2>
 
 
+<p><b>The Dataset consists of various fashion Brands and different Categories of Accessories along with other features</b></p>
 
-### The Analysis was performed for the following reasons:
-####             1. To perform Data Cleaning
-####             2. To Identify some of the top Brands in the market
-####             3. To analyse the minimum and maximum MRP and selling price of the top Brands
-####             4. To identify widely sold accessory category in the market
-####             5. To identify the Brands which contribute the most for each of the category
-####             6. To help the customers in deciding the product of choice based on brands available in different price ranges
+<p>The Analysis was performed for the following reasons:</p>
+<ol>
+<li>Perform Data Cleaning (Remove unwanted features, fill null values, standardization)</li>
+<li>Identify some of the top Brands in the current market</li>
+<li>Visualize the minimum and maximum MRP and selling price of the top Brands</li>
+<li>To identify the in demand accessory categories in the market</li>
+<li>Brands which are consistently contributing the most for each of the category</li>
+<li>The analysis will be helpful for the customers to decide the product of choice based on brands, accessories and  price ranges</li>
+</ol>
