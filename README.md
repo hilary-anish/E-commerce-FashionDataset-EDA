@@ -25,4 +25,4 @@
 
 <h4> PowerBI visulization of the Cleaned Data </h4>
 
-<img src='fashion.png'>
+<img src='./fashion.png' width="350" title="hover text">
