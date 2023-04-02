@@ -21,3 +21,8 @@
 </ol>
 
 <a href='https://www.kaggle.com/datasets/mukuldeshantri/ecommerce-fashion-dataset'> Dataset from kaggle </a>
+
+
+<h4> PowerBI visulization of the Cleaned Data </h4>
+
+<img src='fashion.png'>
