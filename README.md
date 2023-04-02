@@ -25,4 +25,4 @@
 
 <h4> PowerBI visulization of the Cleaned Data </h4>
 
-![fashion]('./fashion.png')
+![fashion](https://user-images.githubusercontent.com/110568431/229362068-37e9bd35-4392-482a-a77a-e6aaf21c276b.PNG)
